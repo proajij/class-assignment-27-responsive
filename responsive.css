@@ -240,9 +240,20 @@
         font-size: 15px;
         padding: 12px 0;
     }
-}
-@media all and (max-width:280px){
+    .header-section .menu ul li a {
+        padding: 0px 26px;
+    }
+    .header-section .menu ul li a {
+        padding: 0px 18px;
+    }
 
+   
+}
+
+@media all and (max-width:300px){
+    .header-section .menu ul li a {
+        padding: 0px 14px;
+    }
 }
 
 
